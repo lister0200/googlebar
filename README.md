@@ -1,14 +1,14 @@
 
 # Google Search Bar
 
-Création d'une barre de recherche inspiré de Google
+Création d'une barre de recherche inspirée de Google
 ## 🛠 Skills
 HTML, CSS
 
 
 ## Authors
 
-- [@lister_0200](https://github.com/lister_0200)
+- [@lister0200](https://github.com/lister0200)
 
 
 ## 🔗 Links
